@@ -27,8 +27,8 @@ Contributions to the Demons Unleashed Mod are welcome! If you have ideas for new
 This mod is available under the MIT License. See the LICENSE file for more information.
 
 ## Credits
-- Created by [Your Name]
-- Special thanks to [List any contributors or resources you used]
+- Created by Small_Chubby
+- Special thanks to ME🥲
 
 ## Contact
 For questions, feedback, or support, you can reach out to [Your Email or Discord Handle].
