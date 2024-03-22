@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"down": "dm:ecto",
+		"up": "dm:ecto",
+		"north": "dm:ecto",
+		"south": "dm:ecto",
+		"west": "dm:ecto",
+		"east": "dm:ecto"
+	}
+}

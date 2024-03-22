@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dm:block/emberwood_slab"
+    },
+    "type=double": {
+      "model": "dm:block/emberwood_plank"
+    },
+    "type=top": {
+      "model": "dm:block/emberwood_slab_top"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "dm:block/whisperwood_plank",
+    "side": "dm:block/whisperwood_plank",
+    "top": "dm:block/whisperwood_plank"
+  }
+}

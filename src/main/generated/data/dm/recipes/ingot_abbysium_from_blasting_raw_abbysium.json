@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 75,
+  "experience": 0.5,
+  "group": "abbysium",
+  "ingredient": {
+    "item": "dm:raw_abbysium"
+  },
+  "result": "dm:ingot_abbysium"
+}

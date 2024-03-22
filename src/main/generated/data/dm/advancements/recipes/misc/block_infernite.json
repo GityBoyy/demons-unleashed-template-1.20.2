@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ingot_infernite": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dm:ingot_infernite"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:block_infernite"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ingot_infernite"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:block_infernite"
+    ]
+  },
+  "sends_telemetry_event": false
+}

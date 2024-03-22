@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 75,
+  "experience": 0.5,
+  "group": "frostbite",
+  "ingredient": {
+    "item": "dm:ore_frostbite"
+  },
+  "result": "dm:ingot_frostbite"
+}

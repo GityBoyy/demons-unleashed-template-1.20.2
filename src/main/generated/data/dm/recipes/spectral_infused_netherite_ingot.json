@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "dm:spectral_infused_iron_ingot"
+    },
+    "R": {
+      "item": "dm:spectral_infused_gold_ingot"
+    },
+    "S": {
+      "item": "dm:spectral_infused_netherite_ingot"
+    }
+  },
+  "pattern": [
+    "S",
+    "F",
+    "R"
+  ],
+  "result": {
+    "item": "dm:spectral_sword"
+  },
+  "show_notification": true
+}

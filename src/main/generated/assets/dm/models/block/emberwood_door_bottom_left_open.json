@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left_open",
+  "textures": {
+    "bottom": "dm:block/emberwood_door_bottom",
+    "top": "dm:block/emberwood_door_top"
+  }
+}

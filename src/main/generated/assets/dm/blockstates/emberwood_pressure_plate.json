@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "dm:block/emberwood_pressure_plate"
+    },
+    "powered=true": {
+      "model": "dm:block/emberwood_pressure_plate_down"
+    }
+  }
+}

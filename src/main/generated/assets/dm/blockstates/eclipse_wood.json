@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "dm:block/eclipse_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "dm:block/eclipse_wood"
+    },
+    "axis=z": {
+      "model": "dm:block/eclipse_wood",
+      "x": 90
+    }
+  }
+}

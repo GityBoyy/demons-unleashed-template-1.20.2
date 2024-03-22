@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dm:block/mysticgroovetimber_slab"
+    },
+    "type=double": {
+      "model": "dm:block/mysticgroovetimber_plank"
+    },
+    "type=top": {
+      "model": "dm:block/mysticgroovetimber_slab_top"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "dm:block/stripped_mysticgroovetimber_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "dm:block/stripped_mysticgroovetimber_log"
+    },
+    "axis=z": {
+      "model": "dm:block/stripped_mysticgroovetimber_log_horizontal",
+      "x": 90
+    }
+  }
+}

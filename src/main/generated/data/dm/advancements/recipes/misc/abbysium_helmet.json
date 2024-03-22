@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ingot_abbysium": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dm:ingot_abbysium"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:abbysium_helmet"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ingot_abbysium"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:abbysium_helmet"
+    ]
+  },
+  "sends_telemetry_event": false
+}

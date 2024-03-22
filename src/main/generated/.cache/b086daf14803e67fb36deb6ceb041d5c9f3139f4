@@ -1,0 +1,6 @@
+// 1.20.2	2024-03-19T21:48:04.795212	Demon's Unleashed/Tags for minecraft:block
+76b0e12e60a26efddedfd0ccb79d03c3deed08ac data\minecraft\tags\blocks\fences.json
+0d4b22091c618ce85b15d02200a48b3d0a07a1dc data\minecraft\tags\blocks\fence_gates.json
+50617110e6a989b7ae003bc0d3df6dca4e06c786 data\minecraft\tags\blocks\mineable\pickaxe.json
+8a044389c73bc557bc66a917b88456d247ba8d96 data\minecraft\tags\blocks\mineable\axe.json
+7e818a3b109687d7a2921449a2470407d42e0a14 data\minecraft\tags\blocks\needs_iron_tool.json

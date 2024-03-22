@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dm:block_frostbite"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "dm:ingot_frostbite"
+  }
+}

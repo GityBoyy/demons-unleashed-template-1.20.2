@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "dm:eclipse_fence",
+    "dm:sylvanheartwood_fence",
+    "dm:mysticgroovetimber_fence",
+    "dm:whisperwood_fence",
+    "dm:glowwood_fence",
+    "dm:emberwood_fence"
+  ]
+}

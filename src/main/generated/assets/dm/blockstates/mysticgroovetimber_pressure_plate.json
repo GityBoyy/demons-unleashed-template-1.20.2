@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "dm:block/mysticgroovetimber_pressure_plate"
+    },
+    "powered=true": {
+      "model": "dm:block/mysticgroovetimber_pressure_plate_down"
+    }
+  }
+}

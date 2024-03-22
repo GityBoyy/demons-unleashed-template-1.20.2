@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "texture": "dm:block/mysticgroovetimber_plank"
+  }
+}

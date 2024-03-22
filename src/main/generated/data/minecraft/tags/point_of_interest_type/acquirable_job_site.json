@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "dm:ectoplasmpoi",
+      "required": false
+    }
+  ]
+}

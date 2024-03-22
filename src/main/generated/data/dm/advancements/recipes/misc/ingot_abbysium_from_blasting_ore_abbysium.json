@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ore_abbysium": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dm:ore_abbysium"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:ingot_abbysium_from_blasting_ore_abbysium"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ore_abbysium"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:ingot_abbysium_from_blasting_ore_abbysium"
+    ]
+  },
+  "sends_telemetry_event": false
+}

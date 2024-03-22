@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "dm:block_infernite",
+    "dm:block_abbysium",
+    "dm:ore_abbysium",
+    "dm:block_frostbite",
+    "dm:ore_abbysium",
+    "dm:ore_infernite"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "item": "dm:ingot_abbysium"
+    }
+  },
+  "pattern": [
+    " S ",
+    " S ",
+    " R "
+  ],
+  "result": {
+    "item": "dm:abbysium_sword"
+  },
+  "show_notification": true
+}

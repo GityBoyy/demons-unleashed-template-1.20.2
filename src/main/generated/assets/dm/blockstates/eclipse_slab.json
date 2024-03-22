@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dm:block/eclipse_slab"
+    },
+    "type=double": {
+      "model": "dm:block/eclipse_plank"
+    },
+    "type=top": {
+      "model": "dm:block/eclipse_slab_top"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "dm:ingot_abbysium"
+    }
+  },
+  "pattern": [
+    "S S",
+    "S S"
+  ],
+  "result": {
+    "item": "dm:abbysium_boots"
+  },
+  "show_notification": true
+}

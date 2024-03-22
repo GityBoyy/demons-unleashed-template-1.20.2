@@ -1,0 +1,18 @@
+{
+  "type": "dm:alloy_smelt",
+  "ingredients":[{
+    "item": "dm:ingot_infernite"
+
+  }],
+
+
+  "ingredients":[{
+    "item": "dm:ingot_frostbite"
+
+  }],
+
+
+  "output": {
+    "item": "dm:ingot_chillfire"
+  }
+}

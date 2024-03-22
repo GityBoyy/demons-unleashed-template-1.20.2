@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_block_frostbite": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dm:block_frostbite"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:ingot_frostbite"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_block_frostbite"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:ingot_frostbite"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "dm:block/ectoplasm_extractor" },
+    "facing=east": { "model": "dm:block/ectoplasm_extractor", "y": 90 },
+    "facing=south": { "model": "dm:block/ectoplasm_extractor", "y": 180 },
+    "facing=west": { "model": "dm:block/ectoplasm_extractor", "y": 270 }
+  }
+}

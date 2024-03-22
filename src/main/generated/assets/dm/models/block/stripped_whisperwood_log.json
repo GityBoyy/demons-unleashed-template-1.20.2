@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "dm:block/stripped_whisperwood_log_top",
+    "side": "dm:block/stripped_whisperwood_log"
+  }
+}
