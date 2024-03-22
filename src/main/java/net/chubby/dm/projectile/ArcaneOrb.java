@@ -25,10 +25,10 @@ public class ArcaneOrb extends Item {
         ItemStack itemStack = user.getStackInHand(hand);
         world.playSound((PlayerEntity)null, user.getX(), user.getY(), user.getZ(), SoundEvents.ENTITY_DRAGON_FIREBALL_EXPLODE, SoundCategory.NEUTRAL, 0.5F, 0.4F / (world.getRandom().nextFloat() * 0.4F + 0.8F));
         if (!world.isClient) {
-            ArcaneOrbProjectileEntity infernoOrb = new ArcaneOrbProjectileEntity(user,world);
-            infernoOrb.setItem(itemStack);
-            infernoOrb.setVelocity(user, user.getPitch(), user.getYaw(), 0.0F, 1.5F, 1.0F);
-            world.spawnEntity(infernoOrb);
+            ArcaneOrbProjectileEntity arcaneOrb = new ArcaneOrbProjectileEntity(user,world);
+            arcaneOrb.setItem(itemStack);
+            arcaneOrb.setVelocity(user, user.getPitch(), user.getYaw(), 0.0F, 1.5F, 1.0F);
+            world.spawnEntity(arcaneOrb);
         }
 
         user.incrementStat(Stats.USED.getOrCreateStat(this));
