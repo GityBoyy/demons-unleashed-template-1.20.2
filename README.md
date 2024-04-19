@@ -31,6 +31,6 @@ This mod is available under the MIT License. See the LICENSE file for more infor
 - Special thanks to ME🥲
 
 ## Contact
-For questions, feedback, or support, you can reach out to [Your Email or Discord Handle].
+For questions, feedback, or support, you can reach out to Small_chubby(discord).
 
 Happy demon hunting!
