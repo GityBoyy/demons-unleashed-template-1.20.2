@@ -29,6 +29,7 @@ import software.bernie.geckolib.util.GeckoLibUtil;
 
 public class FrostGiantBoss extends HostileEntity implements RangedAttackMob, GeoEntity
 {
+
     private AnimatableInstanceCache cache = GeckoLibUtil.createInstanceCache(this);
     public FrostGiantBoss(EntityType<? extends HostileEntity> entityType, World world) {
         super(entityType, world);
@@ -45,7 +46,6 @@ public class FrostGiantBoss extends HostileEntity implements RangedAttackMob, Ge
                 .add(EntityAttributes.GENERIC_MOVEMENT_SPEED, 0.356f)
                 .add(EntityAttributes.GENERIC_ARMOR,10f);
     }
-
     @Override
     protected void initGoals() {
         this.goalSelector.add(1, new SwimGoal(this));
